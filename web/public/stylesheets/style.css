@@ -93,7 +93,8 @@ section#gallery {
       }
 
       img:hover {
-        transform: rotateY(-5deg);
+        transform: rotate(-5deg);
+        
         
       }
 
